@@ -1,0 +1,16 @@
+{
+  "name": "discord-role-menu-bot",
+  "version": "1.0.0",
+  "description": "Discord bot role menu with select menu + keep alive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
